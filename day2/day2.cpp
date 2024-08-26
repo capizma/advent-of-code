@@ -54,6 +54,7 @@ int main() {
 					}
 
 					//limit is 12 more than the indexes for RGB, so i just add 12
+					//this is the condition for a game which does not fit the set criteria
 					if (valid == true && result > lookup+12) {
 						valid = false;
 					}
