@@ -1,4 +1,5 @@
 //https://adventofcode.com/2023/day/1
+//First section of the puzzle for Day 1
 
 #include <iostream>
 #include <fstream>
