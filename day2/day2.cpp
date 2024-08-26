@@ -1,3 +1,6 @@
+// https://adventofcode.com/2023/day/2
+// Day 2 (complete)
+
 #include <iostream>
 #include <fstream>
 #include <string>
