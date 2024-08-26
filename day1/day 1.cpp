@@ -6,8 +6,6 @@
 #include <chrono>
 using namespace std;
 
-//commenting this now i realised i didn't do part 2, i might come back to it :D
-
 int main() {
 	//start the clock
 	auto clock_start = chrono::high_resolution_clock::now();
